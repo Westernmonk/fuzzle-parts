@@ -1,0 +1,64 @@
+{
+ "format": "fzp1",
+ "parts": {
+  "5998d27833925ff22ff803e9b2795e9f_monoscripts": {
+   "asset": "5998d27833925ff22ff803e9b2795e9f_monoscripts.fzp",
+   "plainSize": 2299,
+   "release": "android-stream-20261124o-core",
+   "sha256": "a9443db45d580948de916aa5cda40dd4f09c1dfed0c34c21639b16f47ddb06a0",
+   "size": 2351
+  },
+  "barebonesfuzzle_assets_all": {
+   "asset": "barebonesfuzzle_assets_all.fzp",
+   "plainSize": 7886245,
+   "release": "android-stream-20261124o-core",
+   "sha256": "1f85a51cacf3c63627c6aec5825aaa36911654de183c0e0660741ca8b3fecf9a",
+   "size": 7886297
+  },
+  "basetexture_celestialobsidian_assets_all": {
+   "asset": "basetexture_celestialobsidian_assets_all.fzp",
+   "plainSize": 19016,
+   "release": "android-stream-20261124o-basetexture",
+   "sha256": "f22ac494ffe68853551dfc92317d5d642b76dde74cf439d703accb25eb485538",
+   "size": 19068
+  },
+  "combinedtexture_celestialobsidian_onepatchtitanate_assets_all": {
+   "asset": "combinedtexture_celestialobsidian_onepatchtitanate_assets_all.fzp",
+   "plainSize": 65959,
+   "release": "android-stream-20261124o-combinedtexture",
+   "sha256": "532b63a0cb664ab69ae38033d1fb2cf698df29bd8dad1f7866b3837105cba8e0",
+   "size": 66011
+  },
+  "eyecolor_fuzzle_uncommon_red_assets_all": {
+   "asset": "eyecolor_fuzzle_uncommon_red_assets_all.fzp",
+   "plainSize": 278045,
+   "release": "android-stream-20261124o-eyecolor",
+   "sha256": "11359c1c05380c39290e32dc93ef23c2d1d19e4edd00177041caa9f64412aa80",
+   "size": 278097
+  },
+  "groom_miyazaki_common_standard_assets_all": {
+   "asset": "groom_miyazaki_common_standard_assets_all.fzp",
+   "plainSize": 4013514,
+   "release": "android-stream-20261124o-groom",
+   "sha256": "ea67ca3cbff589d1b5c0307c1f5637670e94a11daf5ad280d1147dfba44ec19c",
+   "size": 4013566
+  },
+  "head_horns_sine_s12_common_astralblonde_assets_all": {
+   "asset": "head_horns_sine_s12_common_astralblonde_assets_all.fzp",
+   "plainSize": 318750,
+   "release": "android-stream-20261124o-head",
+   "sha256": "ab394072d603f6b81429fe4df2eae7b9b0e35f0fca3f49218fb59f7e111ce83d",
+   "size": 318802
+  },
+  "overlaytexture_onepatchtitanate_assets_all": {
+   "asset": "overlaytexture_onepatchtitanate_assets_all.fzp",
+   "plainSize": 94877,
+   "release": "android-stream-20261124o-overlaytexture",
+   "sha256": "96f434bbfb719cee5aacc05ab7149c83a5de9864d5bfde6bf38f884f3414e034",
+   "size": 94929
+  }
+ },
+ "platform": "android",
+ "repo": "fuzzle-parts",
+ "stamp": "stream-20261124o"
+}

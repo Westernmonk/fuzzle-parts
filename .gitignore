@@ -1,0 +1,4 @@
+*.bundle
+*key*
+*.bak-*
+.DS_Store
